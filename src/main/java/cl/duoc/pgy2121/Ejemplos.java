@@ -53,8 +53,9 @@ public class Ejemplos {
                 curso = "El curso no existe";
         }
         System.out.println(curso);
-        
-        
+        System.out.println(curso);
+        System.out.println(curso);
+        System.out.println(curso);
         //Ejemplo try catch
         
         try{
